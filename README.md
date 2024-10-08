@@ -1,5 +1,5 @@
 # Mental Health App
-
+## (Em processo)
 ## Descrição
 Este é um aplicativo de saúde mental desenvolvido com Python, Django, HTML e CSS. Ele permite que os usuários registrem seus sentimentos diários, agendem sessões com terapeutas, acessem recursos de saúde mental e muito mais.
 
